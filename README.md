@@ -5,4 +5,8 @@
 
 Nominated for the Accenture V360 Awards in Innovation.
 
-# How LLMs can revolutionize call center operations
+# How can LLMs revolutionize call center operations
+Q1. How can LLMs revolutionzie call center operations?
+
+![uci](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/bb3f7f54-5294-46dc-9d3a-0329c47a40c2)
+![uci-ics](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/482f595d-640e-43fa-971e-cf95aa43ae31)
