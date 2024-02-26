@@ -3,4 +3,6 @@
 ![accenture ai](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/f364aeb9-2240-4bf6-ba4f-5f7fadd2b936)
 ![image](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/16b6858a-3e2a-49e4-96a5-2f0b99ba0dec)
 
+Nominated for the Accenture V360 Awards in Innovation.
 
+#### How LLMs can revolutionize call center operations
