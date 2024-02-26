@@ -5,4 +5,4 @@
 
 Nominated for the Accenture V360 Awards in Innovation.
 
-#### How LLMs can revolutionize call center operations
+# How LLMs can revolutionize call center operations
