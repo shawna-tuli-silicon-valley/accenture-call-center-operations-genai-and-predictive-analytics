@@ -15,4 +15,4 @@ ________________________________________________________________________________
 
 During our project, Shawna was our point of contact and has been such a wonderful mentor and excellent communicator. She has helped guide us through the data science process and has been persistent in providing valuable feedback that helped me and my team improve our projects initiatives. 
 
-It has been a great pleasure to have been acquainted with her and I can't recommend enough her thriving and positive working spirit towards any new challenge!" - Alfonso Vieyra (UCI Data Science Undergraduate)
+It has been a great pleasure to have been acquainted with her and I can't recommend enough her thriving and positive working spirit towards any new challenge!" - Alfonso Vieyra (UCI ICS Data Science Undergraduate)
