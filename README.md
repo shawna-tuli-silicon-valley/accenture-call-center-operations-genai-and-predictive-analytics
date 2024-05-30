@@ -11,7 +11,7 @@ Q1. How can LLMs revolutionzie call center operations nationally?
 ![uci](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/bb3f7f54-5294-46dc-9d3a-0329c47a40c2)
 ![uci-ics](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/482f595d-640e-43fa-971e-cf95aa43ae31)
 
-[UROP Poster.pdf](https://github.com/shawna-tuli-silicon-valley/accenture-call-center-operations-genai-and-predictive-analytics/files/15501641/UROP.Poster.pdf)
+![UROP Poster](https://github.com/shawna-tuli-silicon-valley/accenture-call-center-operations-genai-and-predictive-analytics/assets/19508013/3a0faac2-4d46-4daf-bb68-44fbbcbdef61)
 _______________________________________________________________________________________________________________________________________________________________________
 "Shawna and the rest of her team at Accenture were the sponsor for mine and my peers senior capstone project at UC Irvine. 
 
