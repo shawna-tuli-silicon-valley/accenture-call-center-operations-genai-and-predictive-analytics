@@ -14,8 +14,7 @@ Q. How can LLMs revolutionzie call center operations nationally?
 ![download](https://github.com/shawna-tuli-silicon-valley/accenture-call-center-operations-genai-and-predictive-analytics/assets/19508013/2183218b-1651-4624-8ae0-e1a3ffdf696c)
 _______________________________________________________________________________________________________________________________________________________________________
 
-"
-#### OutStanding Leadership and Contribution: Shawna's Exceptional Efforts in UC Irvine Capstone Program
+" #### OutStanding Leadership and Contribution: Shawna's Exceptional Efforts in UC Irvine Capstone Program
 I am delighted to regonize Shawna's extraordinary contributions as the +1 leader in our engagement with the UC Irvine Capstone Program. Over the past three years, Shawna has demonstrated exceptional leadership, driving the program's success and fostering a valuable partnership between Accenture and the university. 
 
 #### Innovative Apporach and Technical Expertise
