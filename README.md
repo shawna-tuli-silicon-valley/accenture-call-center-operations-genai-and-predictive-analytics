@@ -27,7 +27,7 @@ Shawna provided functional and technical guidance, empowering students to develo
 Shawna's dedication and perseverance have significantly enhanced our brand awareness and strengthened our relationship with the university. Her contributions have raised the bar for future engagements, and her tenacity has inspired our team to strive for excellence.
 
 #### Well-Deserved Recognition
-Shawna's exceptional leadership, technical expertise, and commitment to excellenece make her an invaluable asset to our team. I am grateful for her contributions and look forward to her continued success in future endeavors." - Vish Chokshi (Accenture Los Angeles Senior Manager Visual & Interaction Science)
+Shawna's exceptional leadership, technical expertise, and commitment to excellenece make her an invaluable asset to our team. I am grateful for her contributions and look forward to her continued success in future endeavors." - Vish Chokshi (Accenture Los Angeles Senior Manager, Visual & Interaction Science)
 
 "Shawna and the rest of her team at Accenture were the sponsor for mine and my peers senior capstone project at UC Irvine. 
 
