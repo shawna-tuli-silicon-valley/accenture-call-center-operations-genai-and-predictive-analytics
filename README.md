@@ -29,8 +29,6 @@ Shawna's dedication and perseverance have significantly enhanced our brand aware
 #### Well-Deserved Recognition
 Shawna's exceptional leadership, technical expertise, and commitment to excellenece make her an invaluable asset to our team. I am grateful for her contributions and look forward to her continued success in future endeavors." - Vish Chokshi (Accenture Los Angeles Senior Manager, Visual & Interaction Science)
 
-Shawna does so many things and does them all in a worldclass way that I am certain she must have a twin sister - as I have no idea where she finds the time." - Marty Hodgett (Accenture Southern California Office Managing Director) 
-
 "Shawna and the rest of her team at Accenture were the sponsor for mine and my peers senior capstone project at UC Irvine. 
 
 During our project, Shawna was our point of contact and has been such a wonderful mentor and excellent communicator. She has helped guide us through the data science process and has been persistent in providing valuable feedback that helped me and my team improve our projects initiatives. 
