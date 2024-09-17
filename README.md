@@ -6,10 +6,7 @@
 Nominated for the Accenture V360 Awards in Innovation.
 
 # How can LLMs transform call center operations
-Q. How can LLMs revolutionzie call center operations nationally?
-
-![uci](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/bb3f7f54-5294-46dc-9d3a-0329c47a40c2)
-![uci-ics](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/482f595d-640e-43fa-971e-cf95aa43ae31)
+Q1: How can LLMs revolutionzie call center operations nationally?
 
 ![download](https://github.com/shawna-tuli-silicon-valley/accenture-call-center-operations-genai-and-predictive-analytics/assets/19508013/2183218b-1651-4624-8ae0-e1a3ffdf696c)
 _______________________________________________________________________________________________________________________________________________________________________
@@ -30,6 +27,9 @@ Shawna's dedication and perseverance have significantly enhanced our brand aware
 Shawna's exceptional leadership, technical expertise, and commitment to excellence make her an invaluable asset to our team. I am grateful for her contributions and look forward to her continued success in future endeavors." - Vish Chokshi (Accenture Los Angeles Senior Manager, Visual & Interaction Science)
 
 "Shawna and the rest of her team at Accenture were the sponsor for mine and my peers senior capstone project at UC Irvine. 
+
+![uci](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/bb3f7f54-5294-46dc-9d3a-0329c47a40c2)
+![uci-ics](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/482f595d-640e-43fa-971e-cf95aa43ae31)
 
 During our project, Shawna was our point of contact and has been such a wonderful mentor and excellent communicator. She has helped guide us through the data science process and has been persistent in providing valuable feedback that helped me and my team improve our projects initiatives. 
 
